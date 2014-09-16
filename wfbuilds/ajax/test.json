@@ -1,0 +1,27 @@
+{
+
+"serration" : {
+	"name" : "Serration",
+	"image" : "cards/serration.png",
+	"power" : 6
+},
+
+"hellschamber" : {
+	"name" : "Hell's Chamber",
+	"image" : "cards/hellschamber.png",
+	"power" : 8
+},
+
+"pointblank" : {
+	"name" : "Point Blank",
+	"image" : "cards/pointblank.png",
+	"power" : 4
+},
+
+"desteve" : {
+	"name" : "DE_Steve",
+	"image" : "cards/desteve.png",
+	"power" : 4
+}
+
+}
